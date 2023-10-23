@@ -1,5 +1,3 @@
-Notebook is a web application that replicates the functionality of Google Keep. Built with React and styled using Material-UI, this project allows users to create, edit, and organize notes with a user-friendly interface. 
-
 #**Components and Features:**
 
 1. **Form Component:**
