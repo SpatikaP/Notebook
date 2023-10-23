@@ -1,6 +1,6 @@
 Notebook is a web application that replicates the functionality of Google Keep. Built with React and styled using Material-UI, this project allows users to create, edit, and organize notes with a user-friendly interface. 
 
-**Components and Features:**
+#**Components and Features:**
 
 1. **Form Component:**
    - The "Form" component allows users to create new notes. Users can enter a title and content for each note.
@@ -22,6 +22,8 @@ Notebook is a web application that replicates the functionality of Google Keep. 
 4. **EmptyNotes Component:**
    - The "EmptyNotes" component serves as a user-friendly notification for when a section is empty.
    - It displays a lightbulb icon and a message, such as "Notes you add appear here."
+     
+   ![image](https://github.com/SpatikaP/Notebook/assets/79979665/feaee95b-9c0f-4273-9a1d-20f94145eefc)
 
 5. **NavList Component:**
    - The "NavList" component provides a sidebar menu for easy navigation between sections.
@@ -38,10 +40,12 @@ Notebook is a web application that replicates the functionality of Google Keep. 
    - It maintains three separate arrays for notes, archived notes, and deleted notes.
    - The context provided by "DataContext" allows components to access and update these arrays.
 
-   ![image](https://github.com/SpatikaP/Notebook/assets/79979665/feaee95b-9c0f-4273-9a1d-20f94145eefc)
+ 
+   ![image](https://github.com/SpatikaP/Notebook/assets/79979665/f1ca6190-3dac-41d9-b847-6ed4d660e867)
 
 
-**Functionality:**
+
+#**Functionality:**
 
 - Users can create notes by entering a title and content.
 - Notes can be archived to keep them separate from the active notes.
@@ -59,6 +63,7 @@ This project effectively manages the state of notes and offers various features 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
