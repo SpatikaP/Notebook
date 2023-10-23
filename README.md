@@ -38,6 +38,9 @@ Notebook is a web application that replicates the functionality of Google Keep. 
    - It maintains three separate arrays for notes, archived notes, and deleted notes.
    - The context provided by "DataContext" allows components to access and update these arrays.
 
+   ![image](https://github.com/SpatikaP/Notebook/assets/79979665/feaee95b-9c0f-4273-9a1d-20f94145eefc)
+
+
 **Functionality:**
 
 - Users can create notes by entering a title and content.
